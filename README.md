@@ -68,7 +68,7 @@ https://drive.google.com/file/d/17LY2aN8OiH6f0ebwlCW4armlsfmVnaZD/view?usp=shari
 ###  Results
 
 ### input image1
- <img src="https://github.com/leeseomin/arte2/blob/main/s/seed0399.png" width="500">
+ <img src="https://github.com/leeseomin/arte3/blob/main/s/seed0335.png" width="500">
  
 ### output image1
  <img src="https://github.com/leeseomin/arte3/blob/main/335out.png" width="1500">
