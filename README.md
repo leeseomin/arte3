@@ -86,6 +86,15 @@ https://drive.google.com/file/d/17LY2aN8OiH6f0ebwlCW4armlsfmVnaZD/view?usp=shari
 ### output image3 (Modigliani)
  <img src="https://github.com/leeseomin/arte3/blob/main/modiout.png" width="1600">
  
+ 
+### input image3 (Modigliani)
+ <img src="https://github.com/leeseomin/arte3/blob/main/s/modigliani.png" width="500">
+ 
+### output image3 (Modigliani)
+ <img src="https://github.com/leeseomin/arte3/blob/main/egonout.png" width="1600">
+ 
+ 
+ 
 ### make animated png result
 ```
 ffmpeg -framerate 1 -pattern_type glob -i '*.png' \
