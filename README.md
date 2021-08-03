@@ -39,9 +39,9 @@ https://telegra.ph/Gmic-update-filters-07-26
 
 ```
 
-git clone https://github.com/leeseomin/arte2
+git clone https://github.com/leeseomin/arte3
 
-cd arte2
+cd arte3
 
 mkdir s{1..25}
 
