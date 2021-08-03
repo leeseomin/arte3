@@ -84,7 +84,7 @@ https://drive.google.com/file/d/17LY2aN8OiH6f0ebwlCW4armlsfmVnaZD/view?usp=shari
  <img src="https://github.com/leeseomin/arte2/blob/main/s/seed0306.png" width="500">
  
 ### output image3
- <img src="https://github.com/leeseomin/arte2/blob/main/306out.png" width="1900">
+ <img src="https://github.com/leeseomin/arte3/blob/main/modiout.png" width="1600">
  
 ### make animated png result
 ```
